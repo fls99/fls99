@@ -7,7 +7,7 @@
 
 
 # Portfolio
-This Repository contains various data science projects and some micro software engeneering projects completed by me for academic, selflearning and hobby purposes.
+My profile contains various data science projects and some micro software engeneering projects completed by me for academic, selflearning and hobby purposes.
 
 ## Contents
 
