@@ -24,7 +24,7 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 #### Deep Learning
 
 -__Python__
-- [Object Detection: Tchibo](githublink): A transfer learned modell to detect the Tchibo trademark and faces on pictures.
+- [Object Detection: Tchibo](https://github.com/fls99/Object-Detection-Tchibo): A transfer learned modell to detect the Tchibo trademark and faces on pictures.
 
  _Tools: Tensorflow Object Detection API, Colab, etc.....
  
