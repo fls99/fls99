@@ -14,7 +14,7 @@ My profile contains various data science projects and some micro software engene
 ### Machine Learning 
 
 -__Python__
-- [Predicting California Housing Prices](githublink): Conducted Data Wrangaling and a exploratory data anaylsis with visulization to determine the important  features. Created a random forrest regressor model to predict the value of a given house.
+- [Predicting California Housing Prices](https://github.com/fls99/Predicting-California-Housing-Prices): Conducted Data Wrangaling and a exploratory data anaylsis with visulization to determine the important  features. Created a random forrest regressor model to predict the value of a given house.
 
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib
    
