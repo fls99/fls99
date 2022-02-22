@@ -11,17 +11,17 @@ This Repository contains various data science projects and some micro software e
 
 ## Contents
 
-### Machine Learning (Supervised/Unsupervised)
+### Machine Learning 
 
 -__Python__
-- [Predicting California Housing Prices](githublink): First, I conducted Data Wrangaling and a explanatory Data Anaylsis with visulization to determine the important  features. Created a random forrest regressor model to predict the value of a given house.
+- [Predicting California Housing Prices](githublink): Conducted Data Wrangaling and a exploratory data anaylsis with visulization to determine the important  features. Created a random forrest regressor model to predict the value of a given house.
 
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib
    
 - __R__
 -coming up...
 
-### Deep Learning
+#### Deep Learning
 
 -__Python__
 - [Object Detection: filename](githublink): A transfer learned modell to detect the Tchibo trademark and faces on pictures.
@@ -30,7 +30,7 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib
  
 ### Data Analysis and Visualisation
 -__Python__
--[[Titanic Dataset - Exploratory Analysis](githublink): An Exploatory Data Analysis of the passenger of the Titanic using Pandas, Matplotlib and Seaborn visualisations.
+- [Titanic Dataset - Exploratory Analysis](githublink): An Exploatory Data Analysis of the passenger of the Titanic using Pandas, Matplotlib and Seaborn visualisations.
   
 _Tools: Pandas, Pandas Profiling, Seaborn, MAtplotlib_
   
