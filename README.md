@@ -30,7 +30,7 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib
  
 ### Data Analysis and Visualisation
 -__Python__
-- [Titanic Dataset - Exploratory Analysis](githublink): An Exploatory Data Analysis of the passenger of the Titanic using Pandas, Matplotlib and Seaborn visualisations.
+- [Titanic Dataset - Exploratory Analysis](https://github.com/fls99/Titanic-Dataset---Exploratory-Analysis): An Exploatory Data Analysis of the passenger of the Titanic using Pandas, Matplotlib and Seaborn visualisations.
   
 _Tools: Pandas, Pandas Profiling, Seaborn, MAtplotlib_
   
